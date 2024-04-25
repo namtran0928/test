@@ -1,0 +1,19 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.6.8",
+    "concurrently": "^8.2.2",
+    "express": "^4.19.2",
+    "live-server": "^1.2.2"
+  }
+}
